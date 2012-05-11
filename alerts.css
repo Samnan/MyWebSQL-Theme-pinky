@@ -2,7 +2,7 @@
 	-moz-box-shadow: 1px 1px 10px #5e5e5e;
 	-webkit-box-shadow: 1px 1px 10px #5e5e5e;
 	background: #fff;
-	border: solid 3px #aed0ea;
+	border: solid 3px #ECC5D9;
 	box-shadow: 1px 1px 10px #5e5e5e;
 	color: #000;
 	font-family: Verdana,Arial,sans-serif;
@@ -13,7 +13,7 @@
 
 #popup_title {
 	background: #d0e5f5 url(themes/pinky/images/ui-bg_glass_75_d0e5f5_1x400.png) repeat-x scroll 50% 50%;
-	border: 1px solid #aed0ea;
+	border: 1px solid #ECC5D9;
 	color: #222;
 	cursor: default;
 	font-family: Tahoma,Arial;
